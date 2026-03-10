@@ -1,0 +1,11 @@
+requests
+pydantic
+pyyaml
+sqlalchemy
+rasterio
+numpy
+pillow
+shapely
+geopandas
+ultralytics
+python-dotenv

@@ -1,0 +1,10 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {"name": "Example Naval Site"},
+      "geometry": {"type": "Point", "coordinates": [52.0, 26.0]}
+    }
+  ]
+}
