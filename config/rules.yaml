@@ -1,0 +1,16 @@
+alert_threshold: 8
+
+ais:
+  radius_km: 10
+  time_window_min: 30
+
+naval:
+  near_km: 25
+  very_near_km: 10
+
+weights:
+  large_ship: 4
+  no_ais: 5
+  near_naval: 4
+  very_near_naval: 2
+  near_commercial_port: -3

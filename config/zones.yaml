@@ -1,0 +1,15 @@
+zones:
+  - id: greenland
+    name: Greenland Sea
+    bbox: [-45.0, 68.0, -10.0, 80.0]
+    active: true
+
+  - id: east_med_israel
+    name: Eastern Mediterranean - Israel
+    bbox: [32.0, 29.0, 37.5, 35.5]
+    active: true
+
+  - id: persian_gulf
+    name: Persian Gulf
+    bbox: [47.5, 24.0, 57.5, 30.5]
+    active: true

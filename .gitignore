@@ -1,0 +1,15 @@
+.env
+*.pyc
+__pycache__/
+
+# Runtime artifacts
+data/db/*.db
+data/cache/*
+data/scenes/*
+data/thumbnails/*
+
+# Keep folder structure
+!data/db/.gitkeep
+!data/cache/.gitkeep
+!data/scenes/.gitkeep
+!data/thumbnails/.gitkeep
